@@ -5,6 +5,7 @@
 
 ## 자격증
 정보처리기사 (2024년 정기기사 1회 취득)
+https://github.com/pakms980319/Certifications-And-Awards/blob/main/pdf/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC.pdf
 
 ## 수상내역
 
