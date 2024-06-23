@@ -6,7 +6,8 @@
 ## 자격증
 #### 정보처리기사 (2024년 정기기사 1회 취득) <br/>
 ![image](https://github.com/pakms980319/Certifications-And-Awards/assets/141478303/992e914f-1798-406d-9f27-922681fd47a1)
---- <br/><br/>
+---
+<br/><br/>
 
 ## 수상내역
 #### 웹 개발 경진대회 최우수상 <br/>
@@ -14,7 +15,8 @@
 
 #### 소프트웨어 개발 아이디어 경진대회 우수상 <br/>
 ![image](https://github.com/pakms980319/Certifications-And-Awards/assets/141478303/4bc00ca0-d47d-4810-b890-c76eaa5ebaa1)
---- <br/><br/>
+---
+<br/><br/>
 
 ## 수료, 인증서
 #### 한국공학교육인증원 컴퓨터공학심화전공 교육 인증서 <br/>
@@ -22,7 +24,8 @@
 
 #### 벤처스타트업 아카데미 과정 수료증 <br/>
 ![image](https://github.com/pakms980319/Certifications-And-Awards/assets/141478303/2e3124c3-7215-4cd7-88e9-0273268c12bd)
---- <br/><br/>
+---
+<br/><br/>
 
 ## 장학내역
 #### 벤처스타트업 아카데미(SW분야) 과정-잠재인재 장학생 장학증서
