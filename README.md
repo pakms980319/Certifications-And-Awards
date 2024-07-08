@@ -15,6 +15,9 @@
 
 #### 소프트웨어 개발 아이디어 경진대회 우수상 <br/>
 ![image](https://github.com/pakms980319/Certifications-And-Awards/assets/141478303/4bc00ca0-d47d-4810-b890-c76eaa5ebaa1)
+
+#### 국비교육 성적 우수상 <br/>
+![image](https://github.com/pakms980319/Certifications-And-Awards/assets/141478303/97f5e838-f128-4262-a406-a3b6210c6719)
 ---
 <br/><br/>
 
@@ -26,7 +29,7 @@
 ![image](https://github.com/pakms980319/Certifications-And-Awards/assets/141478303/2e3124c3-7215-4cd7-88e9-0273268c12bd)
 
 #### 임베디드 소프트웨어 융합 풀스택 개발자 양성 과정B 수료증 (23-12-28 ~ 24-07-03)
-[ 추가예정 ]
+![image](https://github.com/pakms980319/Certifications-And-Awards/assets/141478303/aaede8b3-c29c-46fa-a865-9f8fb8a9fb5b)
 ---
 <br/><br/>
 
