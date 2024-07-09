@@ -36,3 +36,9 @@
 ## 장학내역
 #### 벤처스타트업 아카데미(SW분야) 과정-잠재인재 장학생 장학증서
 ![image](https://github.com/pakms980319/Certifications-And-Awards/assets/141478303/83fe04b7-97ab-407d-83c0-be7bd7cccc1a)
+---
+<br/><br/>
+
+## 추천서
+#### 국비 교육 기관장 채용 추천서
+![image](https://github.com/pakms980319/Certifications-And-Awards/assets/141478303/cc11432c-cb03-4c53-9ec8-935c82841b03))
