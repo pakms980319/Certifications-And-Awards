@@ -41,4 +41,4 @@
 
 ## 추천서
 #### 국비 교육 기관장 채용 추천서
-![image](https://github.com/pakms980319/Certifications-And-Awards/assets/141478303/cc11432c-cb03-4c53-9ec8-935c82841b03))
+![image](https://github.com/pakms980319/Certifications-And-Awards/assets/141478303/cc11432c-cb03-4c53-9ec8-935c82841b03)
